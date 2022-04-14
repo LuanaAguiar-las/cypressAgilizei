@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "Letícia",
+        "lastName": "Aguiar Rocha",
+        "adress": "Rua Mato Grosso, 520 - casa 05 - Santa Cecília - Teresópolis/RJ",
+        "emailAdress": "lele_teste@hotmail.com",
+        "radioGender": "f",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Dinamarca",
+        "selectYears": "1983",
+        "selectMonths": "Fevereiro",
+        "pwd": "Abc123!"
+    },
+    {
+        "firstName": "Rodrigo",
+        "lastName": "Rocha Furtado",
+        "adress": "Rua Mato Grosso, 520 - casa 05 - Santa Cecília - Teresópolis/RJ",
+        "emailAdress": "rodrigo_rocha@hotmail.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Dinamarca",
+        "selectYears": "1983",
+        "selectMonths": "Fevereiro",
+        "pwd": "Abc123!"
+    }
+]
